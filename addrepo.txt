@@ -1,0 +1,8 @@
+if a user creats a new file
+while working with project and they needds the file to be a part in the project
+and they need the file to be available in he repository
+follow this steps:
+1. create a file 
+2. add them in a staging ara and commit it
+3. now connect with the remote repo
+4. and push it in the remote repo.
