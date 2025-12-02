@@ -6,3 +6,4 @@ follow this steps:
 2. add them in a staging ara and commit it
 3. now connect with the remote repo
 4. and push it in the remote repo.
+now adding tag/called as versions cretaed
