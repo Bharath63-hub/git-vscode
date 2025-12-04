@@ -2,3 +2,6 @@ testing file for branching
 branch was successfully created and 
 committed in the testbranch
 and reports saved in the main branch
+
+
+testbranch deleted in local machine new branch created
